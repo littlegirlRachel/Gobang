@@ -1,0 +1,10 @@
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.csprojResolveAssemblyReference.cache
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.Form1.resources
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.Form2.resources
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.Properties.Resources.resources
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.csproj.GenerateResource.Cache
+D:\编程\C#实现\k子棋\k子棋\bin\Release\k子棋.exe.config
+D:\编程\C#实现\k子棋\k子棋\bin\Release\k子棋.exe
+D:\编程\C#实现\k子棋\k子棋\bin\Release\k子棋.pdb
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.exe
+D:\编程\C#实现\k子棋\k子棋\obj\Release\k子棋.pdb
